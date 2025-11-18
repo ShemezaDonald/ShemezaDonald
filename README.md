@@ -2,7 +2,7 @@
 
 # 👋 Hi there!
 
-I’m **Aymar Donald Shemeza**, a Data Scientist & Analytics Engineer with a passion for solving complex problems using data. With dual Master’s degrees from **Carnegie Mellon University (Information Technology)** and **Emory University (Business Analytics)**, I thrive at the intersection of **technology, analytics, and business impact**.
+I’m **Aymar Donald**, a Data Scientist & Analytics Engineer with a passion for solving complex problems using data. With two Master’s degrees from **Carnegie Mellon University (Information Technology)** and **Emory University (Business Analytics)**, I thrive at the intersection of **technology, analytics, and business impact**.
 
 I love uncovering meaningful patterns, building predictive solutions, and transforming raw data into insights that drive smarter decisions and tangible results.
 
