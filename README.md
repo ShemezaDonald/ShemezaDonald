@@ -27,9 +27,9 @@ I enjoy working with cross-functional teams and simplifying complex problems int
 Here are some of my favorite and most impactful work (full details in portfolio website):
 
 - 🧮 Global Supply Chain Cost Optimization  
-- 🌍 Facility Location Optimization & Geospatial Analysis  
 - 🏎️ Formula 1 Performance Analytics  
-- 📱 Reward App Data Quality & Trend Analysis  
+- 📱 Reward App Data Quality & Trend Analysis
+- 🌍 Facility Location Optimization & Geospatial Analysis  
 - 📊 Adidas U.S. Sales Dashboard (Tableau)
 
 ---
