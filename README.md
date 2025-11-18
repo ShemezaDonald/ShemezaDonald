@@ -1,16 +1,60 @@
 ## Hi there 👋
 
-<!--
-**ShemezaDonald/ShemezaDonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there!
 
-Here are some ideas to get you started:
+I’m **Aymar Donald Shemeza**, a Data Scientist & Analytics Engineer with a passion for solving complex problems using data. With dual Master’s degrees from **Carnegie Mellon University (Information Technology)** and **Emory University (Business Analytics)**, I thrive at the intersection of **technology, analytics, and business impact**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love uncovering meaningful patterns, building predictive solutions, and transforming raw data into insights that drive smarter decisions and tangible results.
+
+---
+
+## 🚀 What I’m About
+
+💡 **Data Scientist at heart**  
+Exploring data, designing analytical frameworks, and uncovering insights that move business strategy forward.
+
+🧠 **Machine Learning & Optimization Enthusiast**  
+Building predictive models, recommender systems, and optimization solutions that solve real-world challenges.
+
+🛠 **Analytics Engineer**  
+Creating scalable data pipelines and dashboards using Python, SQL, BigQuery, Databricks, and Tableau — making data accessible and actionable.
+
+🤝 **Collaborative Problem-Solver**  
+I enjoy working with cross-functional teams and simplifying complex problems into clear, impactful solutions.
+
+---
+
+## 📌 Featured Projects
+
+Here are some of my favorite and most impactful work (full details in portfolio website):
+
+- 🧮 Global Supply Chain Cost Optimization  
+- 🌍 Facility Location Optimization & Geospatial Analysis  
+- 🏎️ Formula 1 Performance Analytics  
+- 📱 Reward App Data Quality & Trend Analysis  
+- 📊 Adidas U.S. Sales Dashboard (Tableau)
+
+---
+
+## 🎯 Outside of Data
+
+When I’m not solving data problems, you’ll probably find me:
+🏀 playing or watching basketball  
+📚 reading biographies, finance, or inspirational books  
+💪 working out and staying active  
+🔥 looking for new ways to learn, grow, and innovate
+
+---
+
+## 💬 Let’s Connect
+
+I’m always happy to connect, collaborate, or talk data!
+
+📧 **Email:** shemedonald@gmail.com  
+💼 **LinkedIn:** [https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/donald-shemeza/)  
+🌐 **Portfolio Website:** [https://your-portfolio-site-link  ](https://shemezadonald.github.io/portfolio/)
+🐙 **Other Projects:** Explore my repositories below!
+
+---
+
+Thanks for stopping by — feel free to explore and reach out anytime! 🚀
