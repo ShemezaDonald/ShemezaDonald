@@ -36,25 +36,14 @@ Here are some of my favorite and most impactful work (full details in portfolio 
 
 ---
 
-## 🎯 Outside of Data
-
-When I’m not solving data problems, you’ll probably find me:
-🏀 playing or watching basketball  
-📚 reading biographies, finance, or inspirational books  
-💪 working out and staying active  
-🔥 looking for new ways to learn, grow, and innovate
-
----
-
 ## 💬 Let’s Connect
 
 I’m always happy to connect, collaborate, or talk data!
 
 📧 **Email:** shemedonald@gmail.com  
 💼 **LinkedIn:** [https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/donald-shemeza/)  
-🌐 **Portfolio Website:** [https://your-portfolio-site-link  ](https://shemezadonald.github.io/portfolio/)
 🐙 **Other Projects:** Explore my repositories below!
 
 ---
 
-Thanks for stopping by — feel free to explore and reach out anytime! 🚀
+Thanks for stopping by!
