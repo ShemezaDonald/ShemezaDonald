@@ -36,8 +36,6 @@ Here are some of my favorite and most impactful work (full details in portfolio 
 
 ## 💬 Let’s Connect
 
-I’m always happy to connect, collaborate, or talk data!
-
 📧 **Email:** shemedonald@gmail.com  
 💼 **LinkedIn:** [https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/donald-shemeza/)  
 🐙 **Other Projects:** Explore my repositories below!
